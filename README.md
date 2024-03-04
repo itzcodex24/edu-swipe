@@ -37,7 +37,7 @@ We are actively seeking contributors in various capacities:
 
 Join our vibrant community to connect with other contributors, get support, and stay updated on the project's progress:
 
-- **Discord**: [Edu Swipe Discord Channel](#)
+- **Discord**: [Edu Swipe Discord Channel](https://discord.gg/PkwFadQ4)
 - **GitHub Discussions**: Engage with the community and team members for discussions on features, improvements, and more.
 
 ## License
@@ -55,4 +55,3 @@ Thank you for considering contributing to Edu Swipe. Let's work together to crea
 ```
 
 ```
-
