@@ -18,7 +18,7 @@ const HomePage: React.FC<any> = ({ navigation }) => {
       </View>
     );
   const handleSignup = () => {
-    navigation.navigate("Details");
+    navigation.navigate("Register");
   };
   return (
     <Animated.View
