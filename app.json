@@ -11,12 +11,13 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.itzcodex.eduswipe"
+      "bundleIdentifier": "com.itzcodex.eduswipe",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -33,6 +34,7 @@
         "projectId": "c1ffdb91-7ccc-4293-972f-ab9922504eb3"
       }
     },
-    "owner": "itzcodex"
+    "owner": "itzcodex",
+    "plugins": ["expo-secure-store"]
   }
 }

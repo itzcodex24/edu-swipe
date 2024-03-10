@@ -12,6 +12,9 @@
   "dependencies": {
     "@expo-google-fonts/montserrat": "^0.2.3",
     "@react-navigation/drawer": "^6.6.11",
+    "@react-navigation/native": "^6.1.14",
+    "@react-navigation/native-stack": "^6.9.22",
+    "axios": "^1.6.7",
     "expo": "~50.0.7",
     "expo-av": "^13.10.5",
     "expo-status-bar": "~1.11.1",
@@ -21,7 +24,8 @@
     "react-native": "0.73.4",
     "react-native-gesture-handler": "~2.14.0",
     "react-native-image-picker": "^4.8.5",
-    "react-native-reanimated": "~3.6.2"
+    "react-native-reanimated": "~3.6.2",
+    "expo-secure-store": "~12.8.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
